@@ -1,0 +1,15 @@
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\bin\Debug\net8.0\MiWebApi.exe
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\bin\Debug\net8.0\MiWebApi.deps.json
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\bin\Debug\net8.0\MiWebApi.runtimeconfig.json
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\bin\Debug\net8.0\MiWebApi.dll
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\bin\Debug\net8.0\MiWebApi.pdb
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfoInputs.cache
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfo.cs
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\MiWebApi.csproj.CoreCompileInputs.cache
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\MiWebApi.sourcelink.json
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\MiWebApi.dll
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\refint\MiWebApi.dll
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\MiWebApi.pdb
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\MiWebApi.genruntimeconfig.cache
+C:\Users\54381\Desktop\FACULTAD\TALLER I\tl1-tp10-2025-augusto-dip\MiWebApi\obj\Debug\net8.0\ref\MiWebApi.dll
